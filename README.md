@@ -1,30 +1,48 @@
-🌤️ Weather App
-A simple and clean real-time weather web app that lets you search any city and get live weather updates instantly.
+# 🌤️ Aether Weather
 
-🚀 Live Demo
-https://aesthetic-selkie-0a8fc2.netlify.app/
+A simple and clean real-time weather application that lets users search for any city and instantly view current weather information.
 
-✨ Features
+## 🚀 Live Demo
 
-a) 🔍 Search weather by city name
+🔗 **[View Live Demo](https://aesthetic-selkie-0a8fc2.netlify.app/)**
 
-b) 🌡️ Displays temperature, humidity & weather conditions
+## ✨ Features
 
-c) ⚡ Live data powered by WeatherAPI
+- 🔍 Search weather by city name
+- 🌡️ View current temperature
+- 💧 Check humidity levels
+- ☁️ View current weather conditions
+- ⚡ Real-time weather data using WeatherAPI
+- 📱 Clean and responsive user interface
 
-d) 📱 Clean and responsive UI
+## 🛠️ Tech Stack
 
+| Technology | Purpose |
+|------------|---------|
+| HTML | Structure |
+| CSS | Styling & responsive design |
+| JavaScript | Application logic |
+| WeatherAPI | Real-time weather data |
 
-🛠️ Tech Stack
+## 📸 Screenshot
 
-a) HTML
+![Aether Weather Screenshot](screenshot.png)
 
-b) CSS
+## ⚙️ How It Works
 
-c) JavaScript
+1. Enter the name of a city in the search bar.
+2. The application sends a request to WeatherAPI.
+3. Weather data is received from the API.
+4. The current weather information is displayed on the screen.
 
-d) [WeatherAPI](https://www.weatherapi.com/)
+## 📂 Project Structure
 
+```text
+weather-app/
+│
+├── index.html
+├── README.md
+└── screenshot.png
 
 📸 Screenshot
 
