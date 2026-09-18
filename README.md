@@ -24,10 +24,6 @@ A simple and clean real-time weather application that lets users search for any 
 | JavaScript | Application logic |
 | WeatherAPI | Real-time weather data |
 
-## 📸 Screenshot
-
-![Aether Weather Screenshot](screenshot.png)
-
 ## ⚙️ How It Works
 
 1. Enter the name of a city in the search bar.
@@ -43,7 +39,7 @@ weather-app/
 ├── index.html
 ├── README.md
 └── screenshot.png
-
+```
 📸 Screenshot
 
 <img width="1898" height="886" alt="image" src="https://github.com/user-attachments/assets/643d9875-74f8-4444-9717-be998c3768a3" />
