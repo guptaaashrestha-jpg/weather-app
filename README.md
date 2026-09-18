@@ -5,6 +5,7 @@ A simple and clean real-time weather web app that lets you search any city and g
 https://aesthetic-selkie-0a8fc2.netlify.app/
 
 ✨ Features
+
 a) 🔍 Search weather by city name
 
 b) 🌡️ Displays temperature, humidity & weather conditions
@@ -15,6 +16,7 @@ d) 📱 Clean and responsive UI
 
 
 🛠️ Tech Stack
+
 a) HTML
 
 b) CSS
